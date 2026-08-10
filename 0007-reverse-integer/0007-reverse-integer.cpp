@@ -11,6 +11,6 @@ public:
         if (revNo > INT_MAX || revNo < INT_MIN) {
             return 0;
         }
-        return revNo;
+        return (int)revNo;
     }
 };
