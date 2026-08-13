@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/satviashwin369-creator/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satviashwin369-creator/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/satviashwin369-creator/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satviashwin369-creator/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/satviashwin369-creator/DSA/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/satviashwin369-creator/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/satviashwin369-creator/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satviashwin369-creator/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satviashwin369-creator/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/satviashwin369-creator/DSA/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -58,5 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satviashwin369-creator/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satviashwin369-creator/DSA/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satviashwin369-creator/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satviashwin369-creator/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
