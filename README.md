@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/satviashwin369-creator/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/satviashwin369-creator/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/satviashwin369-creator/DSA/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/satviashwin369-creator/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/satviashwin369-creator/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/satviashwin369-creator/DSA/tree/master/0046-permutations) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/satviashwin369-creator/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
