@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/satviashwin369-creator/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satviashwin369-creator/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satviashwin369-creator/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satviashwin369-creator/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/satviashwin369-creator/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satviashwin369-creator/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/satviashwin369-creator/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satviashwin369-creator/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satviashwin369-creator/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
