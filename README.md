@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satviashwin369-creator/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satviashwin369-creator/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/satviashwin369-creator/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/satviashwin369-creator/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satviashwin369-creator/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satviashwin369-creator/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/satviashwin369-creator/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/satviashwin369-creator/DSA/tree/master/0875-koko-eating-bananas) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/satviashwin369-creator/DSA/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -191,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/satviashwin369-creator/DSA/tree/master/0074-search-a-2d-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
