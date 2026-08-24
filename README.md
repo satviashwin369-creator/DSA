@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/satviashwin369-creator/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/satviashwin369-creator/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satviashwin369-creator/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/satviashwin369-creator/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/satviashwin369-creator/DSA/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/satviashwin369-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satviashwin369-creator/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/satviashwin369-creator/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/satviashwin369-creator/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satviashwin369-creator/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/satviashwin369-creator/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satviashwin369-creator/DSA/tree/master/0189-rotate-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/satviashwin369-creator/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/satviashwin369-creator/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Pigeonhole Principle
 |  |
