@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satviashwin369-creator/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satviashwin369-creator/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satviashwin369-creator/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/satviashwin369-creator/DSA/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/satviashwin369-creator/DSA/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/satviashwin369-creator/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satviashwin369-creator/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
