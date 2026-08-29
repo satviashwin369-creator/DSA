@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/satviashwin369-creator/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/satviashwin369-creator/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satviashwin369-creator/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/satviashwin369-creator/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/satviashwin369-creator/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/satviashwin369-creator/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0088-merge-sorted-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satviashwin369-creator/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/satviashwin369-creator/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satviashwin369-creator/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satviashwin369-creator/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/satviashwin369-creator/DSA/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/satviashwin369-creator/DSA/tree/master/0409-longest-palindrome) |
 ## Bit Manipulation
 |  |
