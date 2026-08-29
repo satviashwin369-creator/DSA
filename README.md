@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satviashwin369-creator/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/satviashwin369-creator/DSA/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satviashwin369-creator/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/satviashwin369-creator/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/satviashwin369-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/satviashwin369-creator/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/satviashwin369-creator/DSA/tree/master/0048-rotate-image) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satviashwin369-creator/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/satviashwin369-creator/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/satviashwin369-creator/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/satviashwin369-creator/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/satviashwin369-creator/DSA/tree/master/0189-rotate-array) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satviashwin369-creator/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/satviashwin369-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/satviashwin369-creator/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satviashwin369-creator/DSA/tree/master/0055-jump-game) |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/satviashwin369-creator/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
