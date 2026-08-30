@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/satviashwin369-creator/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satviashwin369-creator/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satviashwin369-creator/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/satviashwin369-creator/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/satviashwin369-creator/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/satviashwin369-creator/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/satviashwin369-creator/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/satviashwin369-creator/DSA/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/satviashwin369-creator/DSA/tree/master/0415-add-strings) |
@@ -271,4 +273,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/satviashwin369-creator/DSA/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
