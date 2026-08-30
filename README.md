@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/satviashwin369-creator/DSA/tree/master/0875-koko-eating-bananas) |
+| [0976-largest-perimeter-triangle](https://github.com/satviashwin369-creator/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satviashwin369-creator/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satviashwin369-creator/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satviashwin369-creator/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satviashwin369-creator/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/satviashwin369-creator/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satviashwin369-creator/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satviashwin369-creator/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/satviashwin369-creator/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/satviashwin369-creator/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satviashwin369-creator/DSA/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/satviashwin369-creator/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/satviashwin369-creator/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/satviashwin369-creator/DSA/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/satviashwin369-creator/DSA/tree/master/0409-longest-palindrome) |
+| [0976-largest-perimeter-triangle](https://github.com/satviashwin369-creator/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -288,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/satviashwin369-creator/DSA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
