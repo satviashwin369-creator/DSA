@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satviashwin369-creator/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/satviashwin369-creator/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/satviashwin369-creator/DSA/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/satviashwin369-creator/DSA/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satviashwin369-creator/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/satviashwin369-creator/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/satviashwin369-creator/DSA/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satviashwin369-creator/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
