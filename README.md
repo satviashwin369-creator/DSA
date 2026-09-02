@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satviashwin369-creator/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/satviashwin369-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satviashwin369-creator/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/satviashwin369-creator/DSA/tree/master/0020-valid-parentheses) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satviashwin369-creator/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/satviashwin369-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satviashwin369-creator/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/satviashwin369-creator/DSA/tree/master/0169-majority-element) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/satviashwin369-creator/DSA/tree/master/0976-largest-perimeter-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satviashwin369-creator/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
