@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/satviashwin369-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satviashwin369-creator/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/satviashwin369-creator/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satviashwin369-creator/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/satviashwin369-creator/DSA/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satviashwin369-creator/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/satviashwin369-creator/DSA/tree/master/0409-longest-palindrome) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satviashwin369-creator/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satviashwin369-creator/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satviashwin369-creator/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/satviashwin369-creator/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/satviashwin369-creator/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/satviashwin369-creator/DSA/tree/master/0075-sort-colors) |
@@ -312,4 +314,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satviashwin369-creator/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satviashwin369-creator/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satviashwin369-creator/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satviashwin369-creator/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satviashwin369-creator/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
