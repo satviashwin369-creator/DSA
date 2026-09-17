@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/satviashwin369-creator/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/satviashwin369-creator/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/satviashwin369-creator/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/satviashwin369-creator/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/satviashwin369-creator/DSA/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satviashwin369-creator/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satviashwin369-creator/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/satviashwin369-creator/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/satviashwin369-creator/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/satviashwin369-creator/DSA/tree/master/0739-daily-temperatures) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/satviashwin369-creator/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/satviashwin369-creator/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satviashwin369-creator/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/satviashwin369-creator/DSA/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satviashwin369-creator/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/satviashwin369-creator/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/satviashwin369-creator/DSA/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
