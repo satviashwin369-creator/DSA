@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/satviashwin369-creator/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satviashwin369-creator/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/satviashwin369-creator/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/satviashwin369-creator/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satviashwin369-creator/DSA/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/satviashwin369-creator/DSA/tree/master/0541-reverse-string-ii) |
 ## Stack
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/satviashwin369-creator/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/satviashwin369-creator/DSA/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satviashwin369-creator/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/satviashwin369-creator/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satviashwin369-creator/DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/satviashwin369-creator/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/satviashwin369-creator/DSA/tree/master/0509-fibonacci-number) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/satviashwin369-creator/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satviashwin369-creator/DSA/tree/master/0415-add-strings) |
 ## Memoization
 |  |
