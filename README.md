@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/satviashwin369-creator/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satviashwin369-creator/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/satviashwin369-creator/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/satviashwin369-creator/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/satviashwin369-creator/DSA/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satviashwin369-creator/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/satviashwin369-creator/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/satviashwin369-creator/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/satviashwin369-creator/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/satviashwin369-creator/DSA/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
