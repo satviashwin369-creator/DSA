@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/satviashwin369-creator/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/satviashwin369-creator/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satviashwin369-creator/DSA/tree/master/0415-add-strings) |
+| [0466-count-the-repetitions](https://github.com/satviashwin369-creator/DSA/tree/master/0466-count-the-repetitions) |
 | [0541-reverse-string-ii](https://github.com/satviashwin369-creator/DSA/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satviashwin369-creator/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/satviashwin369-creator/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/satviashwin369-creator/DSA/tree/master/0392-is-subsequence) |
+| [0466-count-the-repetitions](https://github.com/satviashwin369-creator/DSA/tree/master/0466-count-the-repetitions) |
 | [0541-reverse-string-ii](https://github.com/satviashwin369-creator/DSA/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/satviashwin369-creator/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/satviashwin369-creator/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satviashwin369-creator/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/satviashwin369-creator/DSA/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/satviashwin369-creator/DSA/tree/master/0392-is-subsequence) |
+| [0466-count-the-repetitions](https://github.com/satviashwin369-creator/DSA/tree/master/0466-count-the-repetitions) |
 | [0509-fibonacci-number](https://github.com/satviashwin369-creator/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
